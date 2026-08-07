@@ -298,9 +298,6 @@ input:focus-visible {
 
 .logo img {
   height: calc(var(--header-height) - 10px);
-  border: 2px solid var(--color-border);
-  border-radius: var(--radius-md);
-  opacity: .5;
 }
 
 .logo__main {
